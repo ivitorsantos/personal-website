@@ -16,4 +16,4 @@ Um WebApp (por enquanto sem backend) focado em mostrar meus projetos pessoais e 
 
 ## Veja o site online!
 
-- Link para ver: [Ir para o Site]()
+- Link para ver: [Ir para o Site](https://velvety-capybara-58cfbb.netlify.app/)
