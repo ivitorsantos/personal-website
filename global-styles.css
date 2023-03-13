@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.max-width {
+    margin: 0 auto;
+    max-width: 1300px;
+}
+
+.jump-animation {
+    animation: jump 2.5s infinite alternate;
+}
+
+@keyframes jump {
+    0% {
+        transform: translateY(0px);
+    }
+
+    100% {
+        transform: translateY(-35px);
+    }
+}
