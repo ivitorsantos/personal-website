@@ -76,7 +76,7 @@ function App() {
           </div>
           <div className="text">
             <h2>Um pouco sobre min</h2>
-            <p>Sou um jovem de 24 anos que tem paixão por programação e um estilo de vida saudável e ativo. Sou apaixonado por resolver problemas por meio da programação, utilizando minhas habilidades de descontruir problemas em pequenas partes e usar o raciocínio lógico para criar soluções inovadoras e eficazes. Sou um desenvolvedor dedicado, sempre buscando se atualizar e aprender novas tecnologias e técnicas para aprimorar minhas habilidades.</p><br/>
+            <p>Sou um jovem de 24 anos, casado, que tem paixão por programação e um estilo de vida saudável e ativo. Sou apaixonado por resolver problemas por meio da programação, utilizando minhas habilidades de descontruir problemas em pequenas partes e usar o raciocínio lógico para criar soluções inovadoras e eficazes. Sou um desenvolvedor dedicado, sempre buscando se atualizar e aprender novas tecnologias e técnicas para aprimorar minhas habilidades.</p><br/>
             <p>Além disso, sou entusiasta do estilo de vida saudável. Valorizo muito a importância da atividade física e da alimentação saudável para manter um corpo e a mente saudável, pratico regularmente exercícios físicos e tenho alimentação balanceada por acreditar fortemente que um estilo de vida ativo e saudável não só traz benefícios físicos, mas também contribui para uma vida profissional mais produtiva.</p>
           </div>
 
